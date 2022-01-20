@@ -2,6 +2,6 @@
 
 # Projects
 
-### JSGUE
-- JS에 익숙해지기 위한 프로젝트
-- Server가 일절 존재하지 않으며, JS의 literal Object Factory 패턴에 집중하였음
+### TrashBagPrice
+
+공공데이터 및 Svg파일을 사용해 보는것을 목표로 하는 간단한 프로젝트.
