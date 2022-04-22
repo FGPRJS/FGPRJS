@@ -2,7 +2,7 @@
 
 # Projects
 
-### [UnityTestProject](http://mypofol.shop)
+### [UnityFPSProject](http://mypofol.shop)
 
 (진행중) Unity를 사용한 게임 제작 및 웹 서버 배포를 포함한 프로젝트.
 Server : AWS Lightsail / CentOS 7 / Apache 2.4
